@@ -10,5 +10,5 @@
 
 * [About](./about/index)
 
-* [Contact](./contact/index)
+* [Youtube Link](./contact/index)
 
