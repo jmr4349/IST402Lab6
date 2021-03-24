@@ -1,4 +1,4 @@
-<!-- IST402Lab6/_sidebar.md -->
+
 
 
 * [HOME](./)
