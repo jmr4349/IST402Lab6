@@ -1,8 +1,12 @@
 
-# Tutorials for every technologist
+# Pros and Cons
 
-Learn about all these great technologies:
+### Every single CMS has pros and cons that are associated with it. 
 
-[Tomcat](./tomcat/index.md)
-[Cloud](./cloud/index.md)
-[Java](./java/index.md)
+## Pros
+
+###
+
+## Cons
+
+###
