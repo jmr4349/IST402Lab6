@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [HOME](./)
+* [Introduction](./)
 
 * [Pros and Cons](./proscons/index)
 
