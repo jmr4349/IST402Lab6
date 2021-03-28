@@ -4,7 +4,7 @@
 
 * [Pros and Cons](./proscons/index)
 
-* [Alternatives](.alternatives/index)
+* [Alternatives](./alternatives/index)
 
 * [Data Strcuture](./datastructure/index)
 
