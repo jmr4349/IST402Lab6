@@ -2,12 +2,11 @@
 
 * [HOME](./)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
+* [Pros and Cons](./proscons/index)
 
-* [About](./about/index)
+* [Alternatives](.alternatives/index)
 
-* [Youtube Link](./contact/index)
+* [Data Strcuture](./datastructure/index)
+
+* [Youtube Link](./youtube/index)
 
