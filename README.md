@@ -1,3 +1,3 @@
 # Welcome to Docsify!
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page.
+### Docisfy is a great way to create documentation websites that are very easy to setup. Following the steps on their wqebsite you can have a documentation website up in 20 minutes of work!
