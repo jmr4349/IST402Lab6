@@ -1,3 +1,3 @@
 # Here is the corrisponding Youtube video for this website
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wn-vx4zt-eI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Wn-vx4zt-eI&ab_channel=JaredRice/0.jpg)](https://www.youtube.com/watch?v=Wn-vx4zt-eI&ab_channel=JaredRice)
