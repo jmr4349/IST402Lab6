@@ -7,8 +7,8 @@ Every single CMS has pros and cons that are associated with it.
 
 * Easy to Implement
 * Markdown Based Pages
-* 
+* Free!
 
 ## Cons
 
-###
+*
