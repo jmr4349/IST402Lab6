@@ -11,4 +11,5 @@ Every single CMS has pros and cons that are associated with it.
 
 ## Cons
 
-*
+* Doesn't Allow for more Complexity
+
